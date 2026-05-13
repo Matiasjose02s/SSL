@@ -1,4 +1,4 @@
-# 00-CHelloWorld - Compilador C23
+# TP0: "Hello, World!" en C
 
 **Compilador seleccionado:** GCC (GNU Compiler Collection)  
 **Versión del compilador:** 16.1.0  
