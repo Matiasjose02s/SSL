@@ -1,0 +1,3 @@
+Hello, World! 🌍
+Compilado con GCC 16.1.0
+Estándar C: 202311 (C23)
